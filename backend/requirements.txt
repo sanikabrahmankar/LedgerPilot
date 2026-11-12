@@ -1,0 +1,10 @@
+Flask>=3.0,<4.0
+flask-cors>=4.0
+pymongo>=4.6
+python-dotenv>=1.0
+requests>=2.31
+numpy>=1.26
+scipy>=1.11
+thefuzz>=0.22
+google-generativeai>=0.8
+gunicorn>=22.0
